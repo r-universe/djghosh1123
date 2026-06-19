@@ -1,0 +1,10 @@
+{
+  "id": 141397674,
+  "created_at": "2026-06-19T19:29:27.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["universe"]
+}
