@@ -5,7 +5,7 @@
 [submodule "PFCI"]
 	path = PFCI
 	url = https://github.com/djghosh1123/PFCI
-	branch = master
+	branch = main
 [submodule "glmgraph"]
 	path = glmgraph
 	url = https://github.com/cran/glmgraph
